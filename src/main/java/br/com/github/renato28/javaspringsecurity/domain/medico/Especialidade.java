@@ -1,4 +1,4 @@
-package br.com.github.renato28.javaspringsecurity.domain;
+package br.com.github.renato28.javaspringsecurity.domain.medico;
 
 public enum Especialidade {
 

@@ -1,4 +1,4 @@
-package br.com.github.renato28.javaspringsecurity.domain;
+package br.com.github.renato28.javaspringsecurity.domain.medico;
 
 import jakarta.validation.constraints.Email;
 import jakarta.validation.constraints.NotBlank;
